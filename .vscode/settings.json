@@ -1,0 +1,6 @@
+{
+    "nrf-connect.applications": [
+        "${workspaceFolder}\\apps\\ch3_blinky_with_threads",
+        "${workspaceFolder}\\apps\\ch2_blinky"
+    ]
+}
